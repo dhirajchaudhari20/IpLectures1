@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926027370313",
+    "project_id": "iplecture",
+    "storage_bucket": "iplecture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926027370313:android:3b25643d3f384f9e785498",
+        "android_client_info": {
+          "package_name": "com.example.iplectures"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP8_s3t7vc4xdUWBY6K73AFOszOG1qSwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
